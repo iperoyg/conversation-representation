@@ -29,7 +29,7 @@ mkl-fft==1.0.14
 mkl-random==1.0.2
 mkl-service==2.0.2
 numba==0.46.0
-numpy==1.17.1
+numpy==1.22.0
 pandas==0.25.1
 parso==0.5.1
 patsy==0.5.1
